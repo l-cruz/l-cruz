@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy l-cruz
 
-<!--
-**l-cruz/l-cruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=l-cruz&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false" alt="Estadísticas de l-cruz" />
+  
+  <br/>
 
-Here are some ideas to get you started:
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=l-cruz&layout=compact&theme=tokyonight&border_radius=10&hide_border=false" alt="Lenguajes de l-cruz" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Herramientas y Tecnologías
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,py,git,github,vscode,tailwind,nodejs" />
+</p>
